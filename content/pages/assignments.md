@@ -15,9 +15,54 @@ The exercises heavily emphasize the required readings. The questions and format 
 
 It is not expected that students will need the full three hours to complete the exercise. I use this format so that a student does not have to write fast to do well. This may be of special importance to students for whom English is a second language. If you take more than one of my courses, an additional research paper will be required in the second course, on a topic to be determined in discussions with the instructor.
 
-| LEC # | ASSIGNMENTS |
-| --- | --- |
-| 13 | First exercise available one day after lecture 13 at noon ([PDF]({{< baseurl >}}/resources/ex1)) |
-| 14 | First exercise due two days before lecture 14 at 5 p.m. (two days after it was made available) |
-| 21 | Second exercise available one day after lecture 21 at noon ([PDF]({{< baseurl >}}/resources/ex2)) |
-| 22 | Second exercise due one day after lecture 22 at 9 p.m. (two days after it was made available)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+First exercise available one day after lecture 13 at noon ([PDF]({{< baseurl >}}/resources/ex1))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+First exercise due two days before lecture 14 at 5 p.m. (two days after it was made available)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Second exercise available one day after lecture 21 at noon ([PDF]({{< baseurl >}}/resources/ex2))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Second exercise due one day after lecture 22 at 9 p.m. (two days after it was made available)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
