@@ -4,6 +4,7 @@ description: Lecture notes. Guest for this lecture was Matthew Furlong, Partner,
   McCutchen.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-2004/c88e40e51ec0e0d56281c3784dc46f50_lec19.pdf
 file_type: application/pdf
+parent_uid: b5693724-eb22-1c72-507f-228e91de124e
 resourcetype: Document
 title: lec19.pdf
 uid: c88e40e5-1ec0-e0d5-6281-c3784dc46f50

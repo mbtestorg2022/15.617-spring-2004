@@ -4,6 +4,7 @@ description: Lecture notes. Guest for this lecture was Tim Diggins, Partner, Rop
   & Gray.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/15-617-the-law-of-corporate-finance-and-financial-markets-spring-2004/686a92289bda6205fd24e6af6dd46922_lec20.pdf
 file_type: application/pdf
+parent_uid: b5693724-eb22-1c72-507f-228e91de124e
 resourcetype: Document
 title: lec20.pdf
 uid: 686a9228-9bda-6205-fd24-e6af6dd46922
